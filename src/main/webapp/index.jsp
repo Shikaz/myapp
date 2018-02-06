@@ -7,7 +7,7 @@
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
-	<p>
+	<p><b> This is v 0.9 </b>
 		You are coming from 
 		<%= request.getRemoteAddr()  %></p>
 </body>
