@@ -8,9 +8,8 @@
 
 -<server>
 
-<username>user</username>
+<username>anonymous</username>
 
-<password>${security.getEscapedEncryptedPassword()!"AP6rxKWDSRrcwj3zyESnnvo5uDM"}</password>
 
 <id>central</id>
 
@@ -19,9 +18,8 @@
 
 -<server>
 
-<username>user</username>
+<username>anonymous</username>
 
-<password>${security.getEscapedEncryptedPassword()!"AP6rxKWDSRrcwj3zyESnnvo5uDM"}</password>
 
 <id>snapshots</id>
 
