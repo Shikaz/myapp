@@ -8,7 +8,7 @@
 
 -<server>
 
-<username>${security.getCurrentUsername()}</username>
+<username>user</username>
 
 <password>${security.getEscapedEncryptedPassword()!"AP6rxKWDSRrcwj3zyESnnvo5uDM"}</password>
 
@@ -19,7 +19,7 @@
 
 -<server>
 
-<username>${security.getCurrentUsername()}</username>
+<username>user</username>
 
 <password>${security.getEscapedEncryptedPassword()!"AP6rxKWDSRrcwj3zyESnnvo5uDM"}</password>
 
