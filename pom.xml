@@ -24,13 +24,7 @@
 				<version>2.1.1</version>
 			</plugin>
 					</plugins>
-		<distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>ip-172-31-52-154-releases</name>
-        <url>http://184.72.204.129/artifactory/libs-release</url>
-    </repository>
-</distributionManagement>
+		
 	</build>
 
 </project>
